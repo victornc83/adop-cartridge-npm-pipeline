@@ -1,0 +1,3 @@
+https://github.com/victornc83/ngx-admin.git
+https://github.com/victornc83/adop-cartridge-npm-regression-tests.git
+https://github.com/victornc83/adop-cartridge-npm-environment-template.git
